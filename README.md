@@ -1,19 +1,9 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Poetic Quotes Generator
+Welcome to the Poetic Quotes Generator! This project is designed to practice JavaScript by generating poetic quotes based on your favorite activities, favorite places to visit, along with your name and image.
+![image](https://github.com/user-attachments/assets/3942f234-1394-4417-b407-2a72614703cd)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+## Features
+- **Favorite Activities:** Input your favorite activities to get quotes tailored to them.
+- **Favorite Places:** Input your favorite places to visit to see how they inspire poetry.
+- **Personalized Quotes:** Generate quotes with your name and a chosen image.
+- **User-Friendly Interface:** Simple and intuitive design to enhance user experience.
