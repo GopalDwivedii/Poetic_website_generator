@@ -1,6 +1,6 @@
 # Poetic Quotes Generator
 Welcome to the Poetic Quotes Generator! This project is designed to practice JavaScript by generating poetic quotes based on your favorite activities, favorite places to visit, along with your name and image.
-![image](https://github.com/user-attachments/assets/3942f234-1394-4417-b407-2a72614703cd)
+![image](https://github.com/user-attachments/assets/a41c89fc-1ca9-4619-89a7-6fbe3e27d82b)
 
 ## Features
 - **Favorite Activities:** Input your favorite activities to get quotes tailored to them.
